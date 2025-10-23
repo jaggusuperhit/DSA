@@ -1,0 +1,9 @@
+The time complexity O(n log n) is known as linearithmic time complexity.
+Here's a rough hierarchy of common time complexities:
+O(1) - Constant time complexity
+O(log n) - Logarithmic time complexity
+O(n) - Linear time complexity
+O(n log n) - Linearithmic time complexity
+O(n^2) - Quadratic time complexity
+O(2^n) - Exponential time complexity
+Linearithmic time complexity (O(n log n)) is generally considered to be more efficient than quadratic time complexity (O(n^2)) but less efficient than linear time complexity (O(n)).
